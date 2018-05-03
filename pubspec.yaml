@@ -1,0 +1,10 @@
+name: PruebasDart
+version: "1.0.0"
+description: >-
+  Pruebas de dart.
+author: Patricio Vergara <patriciovergaratobar@gmail.com>
+homepage: https://newtify.dartlang.org
+documentation: https://docs.newtify.com
+dependencies:
+  http: "^0.11.3+16"
+  convert: "2.0.0"
