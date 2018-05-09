@@ -8,10 +8,10 @@ Este repositorio contiene pruebas de la sintaxis del lenguaje dart.
 
 ### Instalación en Windows de Chocolatey
 ```sh
-#Install with cmd.exe
+#User administrator Install with cmd.exe  
 @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
 
-#Install with PowerShell.exe
+#User administrator Install with PowerShell.exe
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
 ```
