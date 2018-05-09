@@ -38,3 +38,8 @@ C:\<Directorio de dart sdk>\bin\pub.bat serve web --port=60279
 #Ejemplo:
 C:\dart-sdk\bin\pub.bat serve web --port=60279
 ```
+
+> Referencia
+>
+> Angular Dart CLI https://pub.dartlang.org/packages/ng2gen
+> 
